@@ -177,3 +177,116 @@ nav ul a:hover{
     align-self: flex-end;
     width: 50%;
 }
+
+.varsity{
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 8vw;
+}
+.varsity-img{
+    justify-content: space-between;
+}
+.varsity-p{
+    width: 50%;
+}
+.varsity-p h2{
+    justify-content: space-between;
+    padding-top: 120px;
+    color: #424242;
+    /* font-family: "Inter", serif; */
+}
+.varsity-p p{
+    line-height: 30px;
+}
+.varsity a{
+    text-decoration: none;
+}
+.res-account{
+    text-align: center;
+    line-height: 40px;
+    color: #424242;
+}
+.res-account button{
+    margin-top: 15px;
+    height: 50px;
+    width: 200px;
+    background-color: #387ed1;
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    border-radius: 3px;
+    font-size: 1.2em;
+}
+.zerodha{
+    justify-content: space-between;
+    display: flex;
+    padding: 2vh 12vw;
+}
+.z-img{
+    width: 280px;
+    line-height: 25px;
+}
+.z-img img{
+   
+    width: 200px;
+}
+.z-img2{
+    height: 10px;
+    width: 10px;
+}
+.zerodha{
+    background-color: #ffffff;
+}
+.company a{
+    margin: 25px;
+}
+.zerodha .company h2,
+.zerodha .support h2,
+.zerodha .account h2{
+    color: #2e2e2e;
+}
+.zerodha .company a,
+.zerodha .support a,
+.zerodha .account a{
+    text-decoration: none;
+    color: #424242;
+}
+.last{
+    justify-content: space-between;
+    padding: 2vw 12vh   ;
+}
+p a{
+    text-decoration: none;
+    font-size: .65rem;
+    
+}
+p a:hover{
+    color: black;
+}
+.last p{
+    color: #9b9b9b;
+    font-size: .65rem;
+    line-height: 25px;
+    text-align:left;
+    line-height: 1.8;   
+    
+}
+.last-1{
+    justify-content: space-between;
+    padding: 2vw 12vh;
+    text-align: center;
+    
+}
+.last-1 a{
+    color: #9b9b9b;
+    text-decoration: none;
+    padding-right: 40px;
+    font-size: .8rem;
+
+}
+.last-1 a:hover{
+    color: blue;
+}
+
+
+
